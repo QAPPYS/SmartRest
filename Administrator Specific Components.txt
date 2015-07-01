@@ -1,0 +1,38 @@
+Restaurant Component :
+===================
+Administrator Specific Components:
+===================
+NB: In this context a User is merely the administrator of the software / application
+1. User profile creator component
+2. User Authentication component
+3. User Authorization component
+4. Food agent component(Entry to the persistent storage)
+5. Food categorizer component(this component will categorize all the food)
+6. Food seeker Component (or we can say it as a food researcher component this component is dependent upon the food collector component.
+the performance of this seeker is fully dependent on collector component)
+7. Trend Analyser??????
+8. Product promoter
+9. Dashboard generator
+10. Menu generator
+11. Sold out food/ out of stock(from our previous experience wink emoticon )
+12. Discount Component
+13. Order Component
+a.Onlie order
+i) default order
+ii) custom order
+b.Offline order
+i) default order
+ii) custom order
+14. Inventory Management Component
+15. Home Delivery Component
+
+
+Customer Specific Components:
+===========================
+1. Food Review Writer(should be authentic)
+2. Rate the food
+3. Checkin module
+4. Image upload module
+5. Complain box(for only about the APP not the food grin emoticon )
+6. Suggestion box(for only about the APP not the food grin emoticon )
+7. Rating giver Component
